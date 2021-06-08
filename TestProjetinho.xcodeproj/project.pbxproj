@@ -15,6 +15,7 @@
 		3F552C76266FF91D000E2823 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F552C74266FF91D000E2823 /* LaunchScreen.storyboard */; };
 		3F552C81266FF91D000E2823 /* TestProjetinhoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F552C80266FF91D000E2823 /* TestProjetinhoTests.swift */; };
 		3F552C8C266FF91D000E2823 /* TestProjetinhoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F552C8B266FF91D000E2823 /* TestProjetinhoUITests.swift */; };
+		3F552C9A266FFEFF000E2823 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F552C99266FFEFF000E2823 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F552C87266FF91D000E2823 /* TestProjetinhoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestProjetinhoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F552C8B266FF91D000E2823 /* TestProjetinhoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjetinhoUITests.swift; sourceTree = "<group>"; };
 		3F552C8D266FF91D000E2823 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F552C99266FFEFF000E2823 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3F552C69266FF91A000E2823 /* AppDelegate.swift */,
 				3F552C6B266FF91A000E2823 /* SceneDelegate.swift */,
 				3F552C6D266FF91A000E2823 /* ViewController.swift */,
+				3F552C99266FFEFF000E2823 /* DetailViewController.swift */,
 				3F552C6F266FF91A000E2823 /* Main.storyboard */,
 				3F552C72266FF91D000E2823 /* Assets.xcassets */,
 				3F552C74266FF91D000E2823 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				3F552C6E266FF91A000E2823 /* ViewController.swift in Sources */,
 				3F552C6A266FF91A000E2823 /* AppDelegate.swift in Sources */,
 				3F552C6C266FF91A000E2823 /* SceneDelegate.swift in Sources */,
+				3F552C9A266FFEFF000E2823 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
